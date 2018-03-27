@@ -1,5 +1,4 @@
 {
-	root : [{
 	"baseOptions": [{
 		"options": [{
 			"code": "30000161",
@@ -300,5 +299,4 @@
 	"thumbnailUrl": "https://productmediafeminine.azureedge.net/images-c5/Feminine/Feminine-UK/Feminine-UK-Product_Images/Bodyform_Ultra_Thin_Towels_String_Wings_x12_7322540512489_T1.tif/115927/Hygi_06_300x300_png/Bodyform_Ultra_Thin_Towels_String_Wings_x12_7322540512489_T1.png",
 	"urlName": "Bodyform-Ultra-Thin-Towels-String-Wings-x12",
 	"variantType": "GenericVariantProduct"
-}]
 }
