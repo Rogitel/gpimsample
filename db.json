@@ -1,0 +1,770 @@
+{
+	"baseOptions": [{
+		"options": [{
+			"code": "30000161",
+			"stock": {
+				"stockLevel": 0,
+				"stockLevelStatus": "inStock"
+			},
+			"url": "/12/Bodyform-Ultra-Thin-Towels-String-Wings-x12/p/30000161"
+		}],
+		"selected": {
+			"code": "30000161",
+			"stock": {
+				"stockLevel": 0,
+				"stockLevelStatus": "inStock"
+			},
+			"url": "/12/Bodyform-Ultra-Thin-Towels-String-Wings-x12/p/30000161"
+		},
+		"variantType": "GenericVariantProduct"
+	}],
+	"baseProduct": "10000161",
+	"brand": {
+		"code": "10085",
+		"name": "Ultra"
+	},
+	"categories": [{
+		"code": "uk",
+		"url": "/sca-all/catalogs/sca_local_uk/Published catalog/categories/uk"
+	}, {
+		"code": "brandbank_uk",
+		"url": "/sca-all/catalogs/sca_local_uk/Published catalog/categories/brandbank_uk"
+	}, {
+		"code": "femcare_uk",
+		"name": "UK-Femcare",
+		"url": "/sca-all/catalogs/sca_local_uk/Published catalog/categories/femcare_uk"
+	}],
+	"channel": {
+		"code": "sca_local_uk",
+		"name": "Local UK"
+	},
+	"classificationClasses": [{
+		"code": "21008",
+		"name": "Towels/Pads"
+	}, {
+		"code": "23001",
+		"name": "BodyForm"
+	}],
+	"classifications": [{
+		"code": "21008",
+		"features": [{
+			"code": "scaClassification/1.0/21008.liners-pads-length",
+			"comparable": true,
+			"featureUnit": {
+				"symbol": "mm",
+				"unitType": "mm"
+			},
+			"featureValues": [{
+				"value": "195"
+			}],
+			"name": "Liners/Pads Length",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/21008.thickness",
+			"comparable": true,
+			"featureUnit": {
+				"symbol": "mm",
+				"unitType": "mm"
+			},
+			"featureValues": [{
+				"value": "3"
+			}],
+			"name": "Thickness",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/21008.has-wings",
+			"comparable": true,
+			"featureValues": [{
+				"value": "true"
+			}],
+			"name": "Has wings",
+			"range": false
+		}],
+		"name": "Towels/Pads"
+	}, {
+		"code": "20003",
+		"features": [{
+			"code": "scaClassification/1.0/20003.femcare-innovations",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Securefit"
+			}],
+			"name": "FemCare Innovations",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20003.absorption-level-in-drops",
+			"comparable": true,
+			"featureUnit": {
+				"symbol": "Drops",
+				"unitType": "Drops"
+			},
+			"featureValues": [{
+				"value": "3"
+			}],
+			"name": "Absorption level (in drops)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20003.usage-occasion",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Day time"
+			}],
+			"name": "Usage Occasion",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20003.underwear-type",
+			"comparable": true,
+			"featureValues": [{
+				"value": "String"
+			}],
+			"name": "Underwear Type",
+			"range": false
+		}],
+		"name": "Feminine Hygiene"
+	}, {
+		"code": "20000",
+		"features": [{
+			"code": "scaClassification/1.0/20000.product-highlights-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "SecureFit: Shaped front and back to fit your curves"
+			}, {
+				"value": "Super absorbent core. "
+			}, {
+				"value": "Wings for extra confidence and security. "
+			}, {
+				"value": "Perfect fit for strings."
+			}],
+			"name": "Product Highlights (Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.country-of-origin-printed-on-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "United Kingdom"
+			}],
+			"name": "Country of origin (printed on Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.manufacturer-address-printed-on-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "SCA Hygiene Products UK Ltd, Southfields Road, Dunstable, Bedfordshire, LU6 3EJ."
+			}],
+			"name": "Manufacturer Address (printed on Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.manufacturer-name-printed-on-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "SCA Hygiene Products UK Ltd"
+			}],
+			"name": "Manufacturer Name (printed on Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.return-to-address-printed-on-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "UK To contact us, please: Write to: FREEPOST BODYFORM (no further address or stamp required) Call our Customer Careline (UK only) on 08000 922 365 Or e-mail: bodyform@sca.com ROI Bodyform Customer Service SCA Hygiene Products Ireland Ltd. Suite 7, Plaza 212, Blanchardstown Corporate Park 2, Dublin 15, Ireland www.bodyform.co.uk www.sca.com"
+			}],
+			"name": "Return to address (printed on Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.product-storage-conditions-printed-on-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Ambient"
+			}],
+			"name": "Product Storage Conditions (printed on Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.item-type-usage-units",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Sanitary Pads (Pad)"
+			}],
+			"name": "Product Type",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.target-markets",
+			"comparable": true,
+			"featureValues": [{
+				"value": "GB"
+			}, {
+				"value": "IE"
+			}],
+			"name": "Target Markets",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.packaging-material-type-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Film Wrap"
+			}],
+			"name": "Packaging Material Type (Consumer Pack)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/20000.recycling-advice-consumer-pack",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Plastic - Not Currently Recycled"
+			}],
+			"name": "Recycling advice (Consumer pack)",
+			"range": false
+		}],
+		"name": "Classification"
+	}, {
+		"code": "23001",
+		"features": [{
+			"code": "scaClassification/1.0/23001.product-description-short-brandsite",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Wozniak"
+			}],
+			"name": "Product Description - Short (Brandsite)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/23001.product-description-long-brandsite",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Wozniak"
+			}],
+			"name": "Product Description - Long (Brandsite)",
+			"range": false
+		}, {
+			"code": "scaClassification/1.0/23001.product-highlights-brandsite",
+			"comparable": true,
+			"featureValues": [{
+				"value": "Wozniak"
+			}],
+			"name": "Product Highlights (Brandsite)",
+			"range": false
+		}],
+		"name": "BodyForm"
+	}],
+	"countOfUsageUnitsInAConsumerPack": {
+		"code": "40011",
+		"name": "12"
+	},
+	"country": {
+		"isocode": "GB",
+		"name": "United Kingdom"
+	},
+	"description": "<p>&nbsp;&nbsp;<span style=\"color: rgb(68, 68, 68); font-family: Arial, non-serif; font-size: 11px; background-color: rgb(244, 247, 250);\">Bodyform Ultra String Towels are specially shaped to fit your string underwear perfectly. And it's incredibly comfortable too. It provides such incredible protection you'll be ready for anything.&nbsp;</span><font color=\"#444444\" face=\"Arial, non-serif\"><span style=\"font-size: 11px;\">Wozniak.</span></font></p>",
+	"ean": "7322540512489",
+	"keywords": [{
+		"keyword": "Ultra Pad"
+	}, {
+		"keyword": "Ultra"
+	}, {
+		"keyword": "Monthly Pad"
+	}, {
+		"keyword": "Period"
+	}, {
+		"keyword": "Femine Care"
+	}, {
+		"keyword": "Femine Protection"
+	}, {
+		"keyword": "Bodyform"
+	}],
+	"mediaGallery": [{
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/Hygi_06_300x300_png/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/original/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/Hygi_06_300x300_png/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/femcare1500x750png/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/femcare615x615png/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/femcare305x305png/roll-press-go.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Video Poster",
+		"shotTypeId": "10002",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/83747/brnB_01_2365x2365_tif/roll-press-go.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Video",
+		"shotTypeId": "10001",
+		"url": "/mam/cockpit/images/stop_big.jpg?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"name": "Video",
+		"shotTypeId": "10001",
+		"url": "https://samediatstfeminine.blob.core.windows.net/asset-66c30ccf-83b6-4810-813c-8326e447b203/1_82238_H264_4500kbps_AAC_und_ch2_128kbps.mp4?sv=2012-02-12&sr=c&si=e5ec4f30-fffe-469a-aba0-d62b713b368b&sig=%2BKcJxay7UPCx6bHF93i0bm%2Fyf7d4vJIMLoCiNc%2B3mO4%3D&se=2117-06-03T07%3A33%3A47Z&attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"name": "Video",
+		"shotTypeId": "10001",
+		"url": "https://mediafemininetest.streaming.mediaservices.windows.net/47bf5bba-6c68-405d-8db3-dbd25186189e/1_82238.ism/Manifest?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82552/Hygi_06_300x300_png/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82552/original/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82552/Hygi_06_300x300_png/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82552/femcare1500x750png/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82552/femcare615x615png/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82552/femcare305x305png/473000695500d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Enhanced Product Shot 7",
+		"shotTypeId": "16",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82552/brnB_01_2365x2365_tif/473000695500d000-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82572/Hygi_06_300x300_png/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82572/original/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82572/Hygi_06_300x300_png/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82572/femcare1500x750png/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82572/femcare615x615png/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82572/femcare305x305png/liner-micro-flores-papillion-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82572/brnB_01_2365x2365_tif/liner-micro-flores-papillion-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82503/Hygi_06_300x300_png/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82503/original/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82503/Hygi_06_300x300_png/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82503/femcare1500x750png/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82503/femcare615x615png/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82503/femcare305x305png/nana-maxi-goodnight-12pcs.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "ID Shot with Promotion",
+		"shotTypeId": "524",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82503/brnB_01_2365x2365_tif/nana-maxi-goodnight-12pcs.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/Hygi_06_300x300_png/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/original/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/Hygi_06_300x300_png/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/femcare1500x750png/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/femcare615x615png/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/femcare305x305png/473000720000d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Hero Image",
+		"shotTypeId": "517",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82496/brnB_01_2365x2365_tif/473000720000d000-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/Hygi_06_300x300_png/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/original/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/Hygi_06_300x300_png/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/femcare1500x750png/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/femcare615x615png/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/femcare305x305png/473000696100d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "PR Image 5",
+		"shotTypeId": "64",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82558/brnB_01_2365x2365_tif/473000696100d000-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82507/Hygi_06_300x300_png/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82507/original/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82507/Hygi_06_300x300_png/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82507/femcare1500x750png/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82507/femcare615x615png/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82507/femcare305x305png/nana-panty-liners-string-30pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Enhanced Product Shot 6",
+		"shotTypeId": "15",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82507/brnB_01_2365x2365_tif/nana-panty-liners-string-30pcs-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82506/Hygi_06_300x300_png/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82506/original/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82506/Hygi_06_300x300_png/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82506/femcare1500x750png/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82506/femcare615x615png/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82506/femcare305x305png/nana-panty-liners-micro-22pcs-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "PR Image 2",
+		"shotTypeId": "61",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82506/brnB_01_2365x2365_tif/nana-panty-liners-micro-22pcs-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82556/Hygi_06_300x300_png/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82556/original/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82556/Hygi_06_300x300_png/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82556/femcare1500x750png/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82556/femcare615x615png/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82556/femcare305x305png/473000695800d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "PR Image 1",
+		"shotTypeId": "60",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82556/brnB_01_2365x2365_tif/473000695800d000-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/Hygi_06_300x300_png/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/original/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/Hygi_06_300x300_png/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/femcare1500x750png/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/femcare615x615png/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/femcare305x305png/473000717600d000-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Out of Pack Without Packaging",
+		"shotTypeId": "132",
+		"url": "https://productmediafemininetest.azureedge.net/images-c5/82494/brnB_01_2365x2365_tif/473000717600d000-webready.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82492/Hygi_06_300x300_png/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82492/original/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82492/Hygi_06_300x300_png/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82492/femcare1500x750png/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82492/femcare615x615png/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82492/femcare305x305png/3091709-931523-na-m-n-18-scamb-webready-1.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"name": "Enhanced Product Shot 5",
+		"shotTypeId": "14",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82492/brnB_01_2365x2365_tif/3091709-931523-na-m-n-18-scamb-webready-1.tif?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "7",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82570/Hygi_06_300x300_png/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "6",
+		"url": "original -> https://productmediafemininetest.azureedge.net/images-c5/82570/original/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "1001",
+		"url": "Hygi_06_300x300_png -> https://productmediafemininetest.azureedge.net/images-c5/82570/Hygi_06_300x300_png/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "641",
+		"url": "femcare1500x750png -> https://productmediafemininetest.azureedge.net/images-c5/82570/femcare1500x750png/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "636",
+		"url": "femcare615x615png -> https://productmediafemininetest.azureedge.net/images-c5/82570/femcare615x615png/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "634",
+		"url": "femcare305x305png -> https://productmediafemininetest.azureedge.net/images-c5/82570/femcare305x305png/europe-rainbow-folded-new-print-webready.png?attachement=true"
+	}, {
+		"assetType": "AssetType",
+		"formatId": "661",
+		"url": "brnB_01_2365x2365_tif -> https://productmediafemininetest.azureedge.net/images-c5/82570/brnB_01_2365x2365_tif/europe-rainbow-folded-new-print-webready.tif?attachement=true"
+	}],
+	"name": "Bodyform Ultra Thin Towels String Wings x12",
+	"purchasable": false,
+	"retailTitle": "Bodyform Ultra Thin Towels String Wings x12",
+	"shortDescription": "<p>&nbsp;<span style=\"color: rgb(68, 68, 68); font-family: Arial, non-serif; font-size: 11px; background-color: rgb(244, 247, 250);\">Bodyform Ultra String Towels are specially shaped to fit your string underwear perfectly. And it's incredibly comfortable too. It provides such incredible protection you'll be ready for anything.&nbsp;</span><font color=\"#444444\" face=\"Arial, non-serif\"><span style=\"font-size: 11px;\">Wozniak.</span></font></p>",
+	"thumbnailUrl": "https://productmediafeminine.azureedge.net/images-c5/Feminine/Feminine-UK/Feminine-UK-Product_Images/Bodyform_Ultra_Thin_Towels_String_Wings_x12_7322540512489_T1.tif/115927/Hygi_06_300x300_png/Bodyform_Ultra_Thin_Towels_String_Wings_x12_7322540512489_T1.png",
+	"urlName": "Bodyform-Ultra-Thin-Towels-String-Wings-x12",
+	"variantType": "GenericVariantProduct"
+}
